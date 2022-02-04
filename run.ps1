@@ -1,0 +1,1 @@
+dotnet run -p NetCoreConsoleApp\NetCoreConsoleApp.csproj
